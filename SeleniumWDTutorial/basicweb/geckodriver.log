@@ -1,0 +1,8 @@
+1642308197849	geckodriver	INFO	Listening on 127.0.0.1:55776
+1642308200913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55777" "-no-remote" "-profile" "C:\\Users\\astro\\AppData\\Local\\Temp\\rust_mozprofileg312Sr"
+1642308201315	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\astro\\AppData\\Local\\Temp\\rust_mozprofileg312Sr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55777/devtools/browser/81b8655b-9431-4591-bfa1-69c7e2dc546b
+1642308203156	Marionette	INFO	Listening on port 55782
+1642308203585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
