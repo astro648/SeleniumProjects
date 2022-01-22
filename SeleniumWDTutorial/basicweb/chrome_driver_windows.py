@@ -4,11 +4,15 @@ from selenium.webdriver.chrome.service import Service
 
 class RunChromeTest():
     def testMethod(self):
-        serv = Service("C:\\Users\\astro\\OneDrive\\Documents\\GitHub\\SeleniumProjects\\drivers\\Mozilla - Gecko "
-                       "Driver\\geckodriver.exe")
-        driver = webdriver.Firefox(service=serv)
+        global driver
+        serv = Service(
+            "C:\\Users\\astro\\OneDrive\\Documents\\GitHub\\SeleniumProjects\\drivers\\ChromeDriver\\chromedriver.exe")
+        driver = webdriver.Chrome(service=serv)
         driver.maximize_window()
         driver.get("https://www.nasa.gov/")
+        while (True):
+            pass
+        driver.quit()
 
 
 chrome = RunChromeTest()
