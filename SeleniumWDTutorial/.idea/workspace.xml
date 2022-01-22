@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicweb/chrome_driver_windows.py" beforeDir="false" afterPath="$PROJECT_DIR$/basicweb/chrome_driver_windows.py" afterDir="false" />
+    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="changed Chrome Driver script to actually use chrome driver">
+      <change afterPath="$PROJECT_DIR$/../drivers/EdgeDriver/Driver_Notes/EULA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drivers/EdgeDriver/Driver_Notes/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drivers/EdgeDriver/Driver_Notes/credits.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drivers/EdgeDriver/msedgedriver.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +143,14 @@
       <option name="presentableId" value="Default" />
       <updated>1642307028233</updated>
     </task>
+    <task id="LOCAL-00001" summary="changed Chrome Driver script to actually use chrome driver">
+      <created>1642815622050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642815622050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +166,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="changed Chrome Driver script to actually use chrome driver" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed Chrome Driver script to actually use chrome driver" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
