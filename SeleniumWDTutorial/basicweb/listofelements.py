@@ -32,5 +32,5 @@ class ByClass():
 
         driver.quit()
 
-ff = ByDemo()
+ff = ByClass()
 ff.test()
