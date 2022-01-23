@@ -11,10 +11,17 @@ class ListOfElements():
         driver.maximize_window()
         driver.get("https://www.alexemtech.com/practice/")
 
-        elementsById = driver.find_element(By.ID,"name")
+        elementsByClassName = driver.find_elements(By.CLASS_NAME,"inputs")
+        length = len(elementsByClassName)
 
-        if elementsById is not None:
-            print("We found an element by Id")
+        if elementsByClassName is not None:
+            print("We found",length,"elements by class name")
+
+        elementsByTagName = driver.find_elements(By.TAG_NAME, "div")
+        length1 = len(elementsByTagName)
+
+        if elementsByTagName is not None:
+            print("We found", length1, "elements by tag name")
 
 
         while (True):
