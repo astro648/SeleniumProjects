@@ -28,8 +28,10 @@ class RunChromeTest():
             print("Found an element by class name")
 
         elementbytagname = driver.find_element_by_tag_name("a")
-        if elementbytagname is not None:
-            print("Found an element by tag name")
+        length = len(elementbytagname)
+        # if elementbytagname is not None:
+            # print("Found an element by tag name")
+            # print(length)
 
 
 

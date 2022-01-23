@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="Bugfix for find_element_by_name and added find_element_by_link_text">
+    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="formatting change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basicweb/findbyidname.py" beforeDir="false" afterPath="$PROJECT_DIR$/basicweb/findbyidname.py" afterDir="false" />
     </list>
@@ -213,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642909328384</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="find element by class name and find element by tag name">
+      <created>1642910600213</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642910600213</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,7 +240,9 @@
     <MESSAGE value="edge driver code" />
     <MESSAGE value="Find by ID and Name" />
     <MESSAGE value="Bugfix for find_element_by_name and added find_element_by_link_text" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bugfix for find_element_by_name and added find_element_by_link_text" />
+    <MESSAGE value="find element by class name and find element by tag name" />
+    <MESSAGE value="formatting change" />
+    <option name="LAST_COMMIT_MESSAGE" value="formatting change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
