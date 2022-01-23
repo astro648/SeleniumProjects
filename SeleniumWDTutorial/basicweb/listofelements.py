@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
-class ByClass():
+class ListOfElements():
 
     def test(self):
         global driver
@@ -32,5 +32,5 @@ class ByClass():
 
         driver.quit()
 
-ff = ByClass()
+ff = ListOfElements()
 ff.test()
