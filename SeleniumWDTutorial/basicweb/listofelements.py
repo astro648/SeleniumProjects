@@ -11,20 +11,10 @@ class ListOfElements():
         driver.maximize_window()
         driver.get("https://www.alexemtech.com/practice/")
 
-        elementById = driver.find_element(By.ID,"name")
+        elementsById = driver.find_element(By.ID,"name")
 
-        if elementById is not None:
+        if elementsById is not None:
             print("We found an element by Id")
-
-        elementByXpath = driver.find_element(By.XPATH,"//input[@id='displayed-text']")
-
-        if elementByXpath is not None:
-            print("We found an element by XPATH")
-
-        elementByLinkText = driver.find_element(By.LINK_TEXT,"Open Tab")
-
-        if elementByLinkText is not None:
-            print("We found an element by Link Text")
 
 
         while (True):
