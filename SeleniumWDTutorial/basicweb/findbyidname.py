@@ -22,6 +22,16 @@ class RunChromeTest():
         if elementbylinktext is not None:
             print("Found an element by link text")
 
+        elementbyclassname = driver.find_element_by_class_name("inputs")
+        elementbyclassname.send_keys("I'm searching for this")
+        if elementbyclassname is not None:
+            print("Found an element by class name")
+
+        elementbytagname = driver.find_element_by_tag_name("a")
+        if elementbytagname is not None:
+            print("Found an element by tag name")
+
+
 
         while (True):
             pass
