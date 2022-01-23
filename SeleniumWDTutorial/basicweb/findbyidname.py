@@ -14,11 +14,18 @@ class RunChromeTest():
         if elementbyid is not None:
             print("Found an element by ID")
 
-        elementbyname = driver.find_element_by_name("courses1")
+        elementbyname = driver.find_element_by_name("courses")
         if elementbyname is not None:
             print("Found an element by name")
+
+        elementbylinktext = driver.find_element_by_link_text("Open Tab")
+        if elementbylinktext is not None:
+            print("Found an element by link text")
+
+
         while (True):
             pass
+
         driver.quit()
 
 
