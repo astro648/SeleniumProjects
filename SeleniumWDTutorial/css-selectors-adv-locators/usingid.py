@@ -24,5 +24,5 @@ class usingID():
         driver.quit()
 
 
-ff = ListOfElements()
+ff = usingID()
 ff.test()
