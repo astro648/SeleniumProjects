@@ -14,7 +14,7 @@ class usingID():
         length = len(elementsByID)
 
         if elementsByID is not None:
-            print("We found",length,"elements by ID")
+            print("We found",length,"element(s) by ID")
 
 
 
