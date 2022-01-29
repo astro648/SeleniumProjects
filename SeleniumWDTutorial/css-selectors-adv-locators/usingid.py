@@ -22,3 +22,7 @@ class usingID():
             pass
 
         driver.quit()
+
+
+ff = ListOfElements()
+ff.test()
