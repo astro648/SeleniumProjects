@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="new python package">
-      <change afterPath="$PROJECT_DIR$/css-selectors-adv-locators/usingid.py" afterDir="false" />
+    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="imports">
+      <change beforePath="$PROJECT_DIR$/css-selectors-adv-locators/usingid.py" beforeDir="false" afterPath="$PROJECT_DIR$/css-selectors-adv-locators/usingid.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <recent name="C:\Users\astro\OneDrive\Documents\GitHub\SeleniumProjects\SeleniumWDTutorial\basicweb" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.listofelements">
+  <component name="RunManager" selected="Python.usingid">
     <configuration name="ByDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SeleniumWDTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,27 +77,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/ByDemo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="chrome_driver_windows" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumWDTutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicweb" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicweb/chrome_driver_windows.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,13 +169,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="usingid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWDTutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/css-selectors-adv-locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/css-selectors-adv-locators/usingid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.usingid" />
         <item itemvalue="Python.listofelements" />
         <item itemvalue="Python.ByDemo" />
         <item itemvalue="Python.findbyidname" />
         <item itemvalue="Python.edge_driver_windows" />
-        <item itemvalue="Python.chrome_driver_windows" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643420431886</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="imports">
+      <created>1643420548643</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1643420548643</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -346,7 +353,8 @@
     <MESSAGE value="changed some formatting and removed unneccessary code" />
     <MESSAGE value="forgot to commit&amp;push" />
     <MESSAGE value="new python package" />
-    <option name="LAST_COMMIT_MESSAGE" value="new python package" />
+    <MESSAGE value="imports" />
+    <option name="LAST_COMMIT_MESSAGE" value="imports" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
