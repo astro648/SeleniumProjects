@@ -15,10 +15,11 @@ class RunChromeTest():
         # Open the Url
         driver.get(purl)
         # Get Title
-        title = driver.title()
+        title = driver.title
         print("Title of current website: ",title)
         # Get Current Url
-
+        current_url = driver.current_url
+        print("Current url: ",current_url)
         # Browser Refresh
 
         # Open another Url
