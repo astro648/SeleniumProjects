@@ -11,8 +11,11 @@ class RunChromeTest():
         driver = webdriver.Chrome(service=serv)
         driver.maximize_window()
         driver.get("http://simplecampus.site/")
-        driver.find_element(By.ID, "email")
-        driver.find_element(By.ID, "name")
+        email_field = driver.find_element(By.ID, "email")
+        password_field = driver.find_element(By.ID, "name")
+        email_field.send_keys("admin")
+        password_field.send_keys("admin") #these two send the word "admin" to the email and password field
+
         while (True):
             pass
         driver.quit()
