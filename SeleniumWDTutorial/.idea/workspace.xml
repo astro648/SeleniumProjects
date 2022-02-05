@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="refreshes browser">
-      <change beforePath="$PROJECT_DIR$/working-with-web-elements/browserinteraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-web-elements/browserinteraction.py" afterDir="false" />
-    </list>
+    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="initialize click-on-webpage.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -412,7 +410,42 @@
       <option name="project" value="LOCAL" />
       <updated>1644024748100</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="open another link">
+      <created>1644024861075</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1644024861075</updated>
+    </task>
+    <task id="LOCAL-00031" summary="driver back and forward">
+      <created>1644024877224</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1644024877224</updated>
+    </task>
+    <task id="LOCAL-00032" summary="note">
+      <created>1644024904953</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1644024904953</updated>
+    </task>
+    <task id="LOCAL-00033" summary="???">
+      <created>1644024997778</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1644024997778</updated>
+    </task>
+    <task id="LOCAL-00034" summary="initialize click-on-webpage.py">
+      <created>1644025062004</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1644025062004</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -428,13 +461,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="find element by class name and find element by tag name" />
-    <MESSAGE value="formatting change" />
-    <MESSAGE value="small change" />
-    <MESSAGE value="Created listofelements.py" />
     <MESSAGE value="small fix" />
     <MESSAGE value="put base code to listofelements.py" />
-    <MESSAGE value="???" />
     <MESSAGE value="forgot to change this as well" />
     <MESSAGE value="renamed class" />
     <MESSAGE value="changed some formatting and removed unneccessary code" />
@@ -453,7 +481,12 @@
     <MESSAGE value="print title" />
     <MESSAGE value="changed method to property and added current_url" />
     <MESSAGE value="refreshes browser" />
-    <option name="LAST_COMMIT_MESSAGE" value="refreshes browser" />
+    <MESSAGE value="open another link" />
+    <MESSAGE value="driver back and forward" />
+    <MESSAGE value="note" />
+    <MESSAGE value="???" />
+    <MESSAGE value="initialize click-on-webpage.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialize click-on-webpage.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
