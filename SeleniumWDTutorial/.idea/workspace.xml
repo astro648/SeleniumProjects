@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="initialize click-on-webpage.py" />
+    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="import ByClass" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -445,7 +445,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644025062004</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="default code">
+      <created>1644025099192</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1644025099192</updated>
+    </task>
+    <task id="LOCAL-00036" summary="import ByClass">
+      <created>1644025450860</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1644025450860</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -461,7 +475,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="small fix" />
     <MESSAGE value="put base code to listofelements.py" />
     <MESSAGE value="forgot to change this as well" />
     <MESSAGE value="renamed class" />
@@ -474,7 +487,6 @@
     <MESSAGE value="grammatical change" />
     <MESSAGE value="new python package" />
     <MESSAGE value="initialize browserinteraction.py" />
-    <MESSAGE value="default code" />
     <MESSAGE value="add basic comments" />
     <MESSAGE value="maximize window" />
     <MESSAGE value="open page and get title" />
@@ -486,7 +498,9 @@
     <MESSAGE value="note" />
     <MESSAGE value="???" />
     <MESSAGE value="initialize click-on-webpage.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialize click-on-webpage.py" />
+    <MESSAGE value="default code" />
+    <MESSAGE value="import ByClass" />
+    <option name="LAST_COMMIT_MESSAGE" value="import ByClass" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
