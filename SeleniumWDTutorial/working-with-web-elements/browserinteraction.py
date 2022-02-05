@@ -8,10 +8,9 @@ class RunChromeTest():
         serv = Service(
             "C:\\Users\\astro\\OneDrive\\Documents\\GitHub\\SeleniumProjects\\drivers\\ChromeDriver\\chromedriver.exe")
         driver = webdriver.Chrome(service=serv)
-        driver.maximize_window()
         driver.get("https://www.nasa.gov/")
         # Window Maximize
-
+        driver.maximize_window()
         # Open the Url
 
         # Get Title
