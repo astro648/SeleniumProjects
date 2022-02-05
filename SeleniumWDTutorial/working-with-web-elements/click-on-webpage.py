@@ -12,7 +12,7 @@ class RunChromeTest():
         driver.maximize_window()
         driver.get("http://simplecampus.site/")
         driver.find_element(By.ID, "email")
-        driver.find_element(By.ID, "password")
+        driver.find_element(By.ID, "name")
         while (True):
             pass
         driver.quit()
