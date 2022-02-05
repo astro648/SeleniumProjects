@@ -15,7 +15,8 @@ class RunChromeTest():
         # Open the Url
         driver.get(purl)
         # Get Title
-        driver.title()
+        title = driver.title()
+        print("Title of current website: ",title)
         # Get Current Url
 
         # Browser Refresh
