@@ -23,7 +23,7 @@ class RunChromeTest():
         # Browser Refresh
         driver.refresh()
         # Open another Url
-
+        driver.get("https://www.nasa.gov/topics/humans-in-space")
         # Browser Back
 
         # Browser Forward

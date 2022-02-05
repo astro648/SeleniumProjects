@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="add basic comments">
+    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="refreshes browser">
       <change beforePath="$PROJECT_DIR$/working-with-web-elements/browserinteraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-web-elements/browserinteraction.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -377,7 +377,42 @@
       <option name="project" value="LOCAL" />
       <updated>1644024401073</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="maximize window">
+      <created>1644024444526</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1644024444526</updated>
+    </task>
+    <task id="LOCAL-00026" summary="open page and get title">
+      <created>1644024583059</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1644024583059</updated>
+    </task>
+    <task id="LOCAL-00027" summary="print title">
+      <created>1644024635273</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1644024635273</updated>
+    </task>
+    <task id="LOCAL-00028" summary="changed method to property and added current_url">
+      <created>1644024722653</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1644024722653</updated>
+    </task>
+    <task id="LOCAL-00029" summary="refreshes browser">
+      <created>1644024748100</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1644024748100</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -393,10 +428,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="changed Chrome Driver script to actually use chrome driver" />
-    <MESSAGE value="edge driver code" />
-    <MESSAGE value="Find by ID and Name" />
-    <MESSAGE value="Bugfix for find_element_by_name and added find_element_by_link_text" />
     <MESSAGE value="find element by class name and find element by tag name" />
     <MESSAGE value="formatting change" />
     <MESSAGE value="small change" />
@@ -417,7 +448,12 @@
     <MESSAGE value="initialize browserinteraction.py" />
     <MESSAGE value="default code" />
     <MESSAGE value="add basic comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="add basic comments" />
+    <MESSAGE value="maximize window" />
+    <MESSAGE value="open page and get title" />
+    <MESSAGE value="print title" />
+    <MESSAGE value="changed method to property and added current_url" />
+    <MESSAGE value="refreshes browser" />
+    <option name="LAST_COMMIT_MESSAGE" value="refreshes browser" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
