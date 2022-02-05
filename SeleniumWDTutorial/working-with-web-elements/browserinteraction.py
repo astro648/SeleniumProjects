@@ -25,9 +25,9 @@ class RunChromeTest():
         # Open another Url
         driver.get("https://www.nasa.gov/topics/humans-in-space")
         # Browser Back
-
+        driver.back()
         # Browser Forward
-
+        driver.forward()
         # Get Page Source
 
         while (True):
