@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="import ByClass" />
+    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="send keys">
+      <change beforePath="$PROJECT_DIR$/working-with-web-elements/click-on-webpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-web-elements/click-on-webpage.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -459,7 +461,28 @@
       <option name="project" value="LOCAL" />
       <updated>1644025450860</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="reformatting and find email and password by id">
+      <created>1644025597340</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1644025597340</updated>
+    </task>
+    <task id="LOCAL-00038" summary="wrong id">
+      <created>1644025612278</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1644025612278</updated>
+    </task>
+    <task id="LOCAL-00039" summary="send keys">
+      <created>1644025775468</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1644025775469</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -475,9 +498,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="put base code to listofelements.py" />
-    <MESSAGE value="forgot to change this as well" />
-    <MESSAGE value="renamed class" />
     <MESSAGE value="changed some formatting and removed unneccessary code" />
     <MESSAGE value="forgot to commit&amp;push" />
     <MESSAGE value="imports" />
@@ -500,7 +520,10 @@
     <MESSAGE value="initialize click-on-webpage.py" />
     <MESSAGE value="default code" />
     <MESSAGE value="import ByClass" />
-    <option name="LAST_COMMIT_MESSAGE" value="import ByClass" />
+    <MESSAGE value="reformatting and find email and password by id" />
+    <MESSAGE value="wrong id" />
+    <MESSAGE value="send keys" />
+    <option name="LAST_COMMIT_MESSAGE" value="send keys" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

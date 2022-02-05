@@ -13,8 +13,12 @@ class RunChromeTest():
         driver.get("http://simplecampus.site/")
         email_field = driver.find_element(By.ID, "email")
         password_field = driver.find_element(By.ID, "name")
+        login_btn = driver.find_element(By.ID, "loginbtn")
         email_field.send_keys("admin")
-        password_field.send_keys("admin") #these two send the word "admin" to the email and password field
+        password_field.send_keys("admin")  # these two send the word "admin" to the email and password field
+        email_field.clear() # clears field
+        email_field.send_keys("admin")
+        login_btn.click()
 
         while (True):
             pass
