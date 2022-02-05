@@ -21,7 +21,7 @@ class RunChromeTest():
         current_url = driver.current_url
         print("Current url: ",current_url)
         # Browser Refresh
-
+        driver.refresh()
         # Open another Url
 
         # Browser Back
