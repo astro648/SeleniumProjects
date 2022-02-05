@@ -10,6 +10,24 @@ class RunChromeTest():
         driver = webdriver.Chrome(service=serv)
         driver.maximize_window()
         driver.get("https://www.nasa.gov/")
+        # Window Maximize
+
+        # Open the Url
+
+        # Get Title
+
+        # Get Current Url
+
+        # Browser Refresh
+
+        # Open another Url
+
+        # Browser Back
+
+        # Browser Forward
+
+        # Get Page Source
+
         while (True):
             pass
         driver.quit()
