@@ -4,6 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
 import time
 
+
 class RunChromeTest():
     def testMethod(self):
         global driver
