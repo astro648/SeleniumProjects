@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="import time and pause for some time" />
+    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="import time and pause for some time">
+      <change beforePath="$PROJECT_DIR$/working-with-web-elements/DropDownElements.py" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-web-elements/DropDownElements.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
