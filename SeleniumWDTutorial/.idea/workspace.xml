@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="run">
-      <change beforePath="$PROJECT_DIR$/working-with-web-elements/Practice1.py" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-web-elements/Practice1.py" afterDir="false" />
+    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="click">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,13 +208,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642307028233</updated>
-    </task>
-    <task id="LOCAL-00001" summary="changed Chrome Driver script to actually use chrome driver">
-      <created>1642815622050</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1642815622050</updated>
     </task>
     <task id="LOCAL-00002" summary="edge driver code">
       <created>1642816723939</created>
@@ -545,7 +538,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644727084384</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="test">
+      <created>1644727238352</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1644727238352</updated>
+    </task>
+    <task id="LOCAL-00050" summary="click">
+      <created>1644727310191</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1644727310191</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -561,8 +568,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add basic comments" />
-    <MESSAGE value="maximize window" />
     <MESSAGE value="open page and get title" />
     <MESSAGE value="print title" />
     <MESSAGE value="changed method to property and added current_url" />
@@ -586,7 +591,9 @@
     <MESSAGE value="import time" />
     <MESSAGE value="file reformat" />
     <MESSAGE value="run" />
-    <option name="LAST_COMMIT_MESSAGE" value="run" />
+    <MESSAGE value="test" />
+    <MESSAGE value="click" />
+    <option name="LAST_COMMIT_MESSAGE" value="click" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
