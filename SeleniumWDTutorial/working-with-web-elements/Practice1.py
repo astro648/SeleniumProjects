@@ -15,24 +15,22 @@ class RunChromeTest():
         driver.get("https://www.expedia.com/")
         driver.implicitly_wait(10)
 
-        textBoxElement = driver.find_element(By.ID, "displayed-text")
-        textBoxState = textBoxElement.is_displayed()  # True if visible, false if hidden
-        print("Text is visible? " + str(textBoxState))
-        time.sleep(2)
+        flights = driver.find_element(By.CLASS_NAME, "uitk-tab-anchor")
+        sel = Select(flights)
 
-        # Click on Hide button
-        driver.find_element(By.ID, "hide-textbox").click()
-        textBoxState = textBoxElement.is_displayed()
-        print("Text is visible? " + str(textBoxState))
-        time.sleep(2)
-
-        # Click on Show button
-        driver.find_element(By.ID, "show-textbox").click()
-        textBoxState = textBoxElement.is_displayed()
-        print("Text is visible? " + str(textBoxState))
-        time.sleep(2)
-
-        driver.quit()
+        # # Click on Hide button
+        # driver.find_element(By.ID, "hide-textbox").click()
+        # textBoxState = textBoxElement.is_displayed()
+        # print("Text is visible? " + str(textBoxState))
+        # time.sleep(2)
+        #
+        # # Click on Show button
+        # driver.find_element(By.ID, "show-textbox").click()
+        # textBoxState = textBoxElement.is_displayed()
+        # print("Text is visible? " + str(textBoxState))
+        # time.sleep(2)
+        #
+        # driver.quit()
 
 
 chr = RunChromeTest()

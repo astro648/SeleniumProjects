@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="import time and pause for some time">
-      <change beforePath="$PROJECT_DIR$/working-with-web-elements/DropDownElements.py" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-web-elements/DropDownElements.py" afterDir="false" />
+    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="run">
+      <change beforePath="$PROJECT_DIR$/working-with-web-elements/Practice1.py" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-web-elements/Practice1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -496,7 +496,56 @@
       <option name="project" value="LOCAL" />
       <updated>1644026045677</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="make Practice1.py">
+      <created>1644726896105</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1644726896105</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Base code">
+      <created>1644726919153</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1644726919153</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Website">
+      <created>1644726956148</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1644726956148</updated>
+    </task>
+    <task id="LOCAL-00045" summary="more base codes and import">
+      <created>1644727005938</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1644727005938</updated>
+    </task>
+    <task id="LOCAL-00046" summary="more base codes and import">
+      <created>1644727026045</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1644727026045</updated>
+    </task>
+    <task id="LOCAL-00047" summary="file reformat">
+      <created>1644727055292</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1644727055293</updated>
+    </task>
+    <task id="LOCAL-00048" summary="run">
+      <created>1644727084384</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1644727084384</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -512,13 +561,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="imports" />
-    <MESSAGE value="base" />
-    <MESSAGE value="forgot to add" />
-    <MESSAGE value="wrong name" />
-    <MESSAGE value="grammatical change" />
-    <MESSAGE value="new python package" />
-    <MESSAGE value="initialize browserinteraction.py" />
     <MESSAGE value="add basic comments" />
     <MESSAGE value="maximize window" />
     <MESSAGE value="open page and get title" />
@@ -537,7 +579,14 @@
     <MESSAGE value="send keys" />
     <MESSAGE value="field clear and click button" />
     <MESSAGE value="import time and pause for some time" />
-    <option name="LAST_COMMIT_MESSAGE" value="import time and pause for some time" />
+    <MESSAGE value="make Practice1.py" />
+    <MESSAGE value="Base code" />
+    <MESSAGE value="Website" />
+    <MESSAGE value="more base codes and import" />
+    <MESSAGE value="import time" />
+    <MESSAGE value="file reformat" />
+    <MESSAGE value="run" />
+    <option name="LAST_COMMIT_MESSAGE" value="run" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
