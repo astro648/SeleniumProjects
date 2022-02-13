@@ -12,24 +12,20 @@ class RunChromeTest():
             "C:\\Users\\astro\\OneDrive\\Documents\\GitHub\\SeleniumProjects\\drivers\\ChromeDriver\\chromedriver.exe")
         driver = webdriver.Chrome(service=serv)
         driver.maximize_window()
-        driver.get("https://www.expedia.com/")
+        driver.get("https://www.expedia.com/?pwaLob=wizard-flight-pwa")
         driver.implicitly_wait(10)
 
-        driver.find_element(By.CLASS_NAME, "uitk-tab-anchor").click()
+        textBoxElement = driver.find_element(By.NAME, "toDate")
+        textBoxState = textBoxElement.is_displayed()  # True if visible, false if hidden
+        print("Text is visible? " + str(textBoxState))
+        time.sleep(2)
 
-        # # Click on Hide button
-        # driver.find_element(By.ID, "hide-textbox").click()
-        # textBoxState = textBoxElement.is_displayed()
-        # print("Text is visible? " + str(textBoxState))
-        # time.sleep(2)
-        #
-        # # Click on Show button
-        # driver.find_element(By.ID, "show-textbox").click()
-        # textBoxState = textBoxElement.is_displayed()
-        # print("Text is visible? " + str(textBoxState))
-        # time.sleep(2)
-        #
-        # driver.quit()
+        driver.get("https://www.expedia.com/?flightType=oneway")
+        driver.implicitly_wait(10)
+        textBoxElement = driver.find_element(By.NAME, "toDate")
+        textBoxState = textBoxElement.is_displayed()  # True if visible, false if hidden
+        print("Text is visible? " + str(textBoxState))
+        time.sleep(2)
 
 
 chr = RunChromeTest()
