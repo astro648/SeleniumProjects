@@ -9,7 +9,7 @@ class RunChromeTest():
             "C:\\Users\\astro\\OneDrive\\Documents\\GitHub\\SeleniumProjects\\drivers\\ChromeDriver\\chromedriver.exe")
         driver = webdriver.Chrome(service=serv)
         driver.maximize_window()
-        driver.get("https://www.nasa.gov/")
+        driver.get("https://www.expedia.com/")
         while (True):
             pass
         driver.quit()
