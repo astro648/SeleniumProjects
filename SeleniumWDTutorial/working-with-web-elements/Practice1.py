@@ -34,5 +34,6 @@ class RunChromeTest():
 
         driver.quit()
 
-    chr = HiddenElements()
-    chr.testMethod()
+
+chr = RunChromeTest()
+chr.testMethod()
