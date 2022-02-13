@@ -63,8 +63,8 @@
       <recent name="C:\Users\astro\OneDrive\Documents\GitHub\SeleniumProjects\SeleniumWDTutorial\basicweb" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.click-on-webpage">
-    <configuration name="ByDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Practice1">
+    <configuration name="Practice1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SeleniumWDTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/working-with-web-elements" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/ByDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/working-with-web-elements/Practice1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Practice1" />
         <item itemvalue="Python.click-on-webpage" />
         <item itemvalue="Python.browserinteraction" />
         <item itemvalue="Python.usingid" />
         <item itemvalue="Python.listofelements" />
-        <item itemvalue="Python.ByDemo" />
       </list>
     </recent_temporary>
   </component>

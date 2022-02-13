@@ -15,8 +15,7 @@ class RunChromeTest():
         driver.get("https://www.expedia.com/")
         driver.implicitly_wait(10)
 
-        flights = driver.find_element(By.CLASS_NAME, "uitk-tab-anchor")
-        sel = Select(flights)
+        driver.find_element(By.CLASS_NAME, "uitk-tab-anchor").click()
 
         # # Click on Hide button
         # driver.find_element(By.ID, "hide-textbox").click()
