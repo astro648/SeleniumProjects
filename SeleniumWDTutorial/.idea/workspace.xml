@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="click">
-      <change beforePath="$PROJECT_DIR$/working-with-web-elements/Practice1.py" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-web-elements/Practice1.py" afterDir="false" />
+    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="does not work">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,13 +208,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642307028233</updated>
-    </task>
-    <task id="LOCAL-00002" summary="edge driver code">
-      <created>1642816723939</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1642816723939</updated>
     </task>
     <task id="LOCAL-00003" summary="Find by ID and Name">
       <created>1642818367190</created>
@@ -552,7 +545,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644727310191</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="does not work">
+      <created>1644728632460</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1644728632461</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -568,7 +568,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="open page and get title" />
     <MESSAGE value="print title" />
     <MESSAGE value="changed method to property and added current_url" />
     <MESSAGE value="refreshes browser" />
@@ -593,7 +592,8 @@
     <MESSAGE value="run" />
     <MESSAGE value="test" />
     <MESSAGE value="click" />
-    <option name="LAST_COMMIT_MESSAGE" value="click" />
+    <MESSAGE value="does not work" />
+    <option name="LAST_COMMIT_MESSAGE" value="does not work" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
