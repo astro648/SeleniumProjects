@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="i don't know what changed haha">
-      <change afterPath="$PROJECT_DIR$/working-with-web-elements/information-download-test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="stuff" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -209,13 +206,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642307028233</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Bugfix for find_element_by_name and added find_element_by_link_text">
-      <created>1642909328384</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1642909328384</updated>
     </task>
     <task id="LOCAL-00005" summary="find element by class name and find element by tag name">
       <created>1642910600213</created>
@@ -553,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645071887748</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="stuff">
+      <created>1645073216384</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1645073216384</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -569,7 +566,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="changed method to property and added current_url" />
     <MESSAGE value="refreshes browser" />
     <MESSAGE value="open another link" />
     <MESSAGE value="driver back and forward" />
@@ -594,7 +590,8 @@
     <MESSAGE value="click" />
     <MESSAGE value="does not work" />
     <MESSAGE value="i don't know what changed haha" />
-    <option name="LAST_COMMIT_MESSAGE" value="i don't know what changed haha" />
+    <MESSAGE value="stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="stuff" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
