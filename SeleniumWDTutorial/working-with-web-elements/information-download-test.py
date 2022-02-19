@@ -21,7 +21,13 @@ class RunChromeTest():
         sel.select_by_visible_text("12th Annual")
         print("Select 12th Annual by Visible Text")
         time.sleep(2)
-
+        rollno_enter = driver.find_element(By.CLASS_NAME, "clsrno")
+        rollno_enter.send_keys("155797")
+        print("typed in rollno")
+        time.sleep(2)
+        search_btn = driver.find_element(By.CLASS_NAME,"search")
+        search_btn.click()
+        time.sleep(2)
 
         while (True):
             pass
