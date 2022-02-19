@@ -13,7 +13,9 @@ class RunChromeTest():
         driver.maximize_window()
         driver.get("https://www.bisegrw.edu.pk/")
         driver.implicitly_wait(10)
-
+        close_btn = driver.find_element(By.CLASS_NAME, "fancybox-close")
+        close_btn.click()
+        time.sleep(2)
         element = driver.find_element(By.ID, "clsname")
         sel = Select(element)
         sel.select_by_visible_text("12th Annual")
