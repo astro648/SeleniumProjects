@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="???">
+    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="moar stuff">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/working-with-web-elements/information-download-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-web-elements/information-download-test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -208,13 +209,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642307028233</updated>
-    </task>
-    <task id="LOCAL-00014" summary="forgot to commit&amp;push">
-      <created>1643419458725</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1643419458725</updated>
     </task>
     <task id="LOCAL-00015" summary="new python package">
       <created>1643420431886</created>
@@ -552,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645236244150</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="moar stuff">
+      <created>1645237169563</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1645237169563</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -568,7 +569,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="driver back and forward" />
     <MESSAGE value="note" />
     <MESSAGE value="initialize click-on-webpage.py" />
     <MESSAGE value="default code" />
@@ -593,7 +593,8 @@
     <MESSAGE value="base" />
     <MESSAGE value="more code" />
     <MESSAGE value="???" />
-    <option name="LAST_COMMIT_MESSAGE" value="???" />
+    <MESSAGE value="moar stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="moar stuff" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

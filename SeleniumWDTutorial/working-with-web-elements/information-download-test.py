@@ -27,6 +27,7 @@ class RunChromeTest():
         time.sleep(2)
         search_btn = driver.find_element(By.CLASS_NAME,"search")
         search_btn.click()
+        print("search btn clicked")
         time.sleep(2)
 
         while (True):
