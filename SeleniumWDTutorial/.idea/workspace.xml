@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="base">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="???">
       <change beforePath="$PROJECT_DIR$/working-with-web-elements/information-download-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-web-elements/information-download-test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -209,20 +208,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642307028233</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Created listofelements.py">
-      <created>1642912831960</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1642912831961</updated>
-    </task>
-    <task id="LOCAL-00008" summary="small fix">
-      <created>1642912911329</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1642912911329</updated>
     </task>
     <task id="LOCAL-00009" summary="put base code to listofelements.py">
       <created>1642912931826</created>
@@ -553,7 +538,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645232701177</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="more code">
+      <created>1645233236300</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1645233236300</updated>
+    </task>
+    <task id="LOCAL-00057" summary="???">
+      <created>1645233327700</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1645233327700</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -569,10 +568,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="open another link" />
     <MESSAGE value="driver back and forward" />
     <MESSAGE value="note" />
-    <MESSAGE value="???" />
     <MESSAGE value="initialize click-on-webpage.py" />
     <MESSAGE value="default code" />
     <MESSAGE value="import ByClass" />
@@ -594,7 +591,9 @@
     <MESSAGE value="i don't know what changed haha" />
     <MESSAGE value="stuff" />
     <MESSAGE value="base" />
-    <option name="LAST_COMMIT_MESSAGE" value="base" />
+    <MESSAGE value="more code" />
+    <MESSAGE value="???" />
+    <option name="LAST_COMMIT_MESSAGE" value="???" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

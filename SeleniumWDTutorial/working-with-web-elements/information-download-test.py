@@ -13,6 +13,7 @@ class RunChromeTest():
         driver.maximize_window()
         driver.get("https://www.bisegrw.edu.pk/")
         driver.implicitly_wait(10)
+
         element = driver.find_element(By.ID, "clsname")
         sel = Select(element)
         sel.select_by_visible_text("12th Annual")
