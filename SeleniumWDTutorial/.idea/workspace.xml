@@ -209,20 +209,6 @@
       <option name="presentableId" value="Default" />
       <updated>1642307028233</updated>
     </task>
-    <task id="LOCAL-00009" summary="put base code to listofelements.py">
-      <created>1642912931826</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1642912931826</updated>
-    </task>
-    <task id="LOCAL-00010" summary="???">
-      <created>1642912951157</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1642912951157</updated>
-    </task>
     <task id="LOCAL-00011" summary="forgot to change this as well">
       <created>1642912973874</created>
       <option name="number" value="00011" />
@@ -552,7 +538,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645233327700</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="???">
+      <created>1645233823480</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1645233823480</updated>
+    </task>
+    <task id="LOCAL-00059" summary="???">
+      <created>1645234258338</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1645234258338</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
