@@ -25,11 +25,14 @@ class RunChromeTest():
         rollno_enter.send_keys("155797")
         print("typed in rollno")
         time.sleep(2)
-        search_btn = driver.find_element(By.CLASS_NAME,"search")
+        search_btn = driver.find_element(By.CLASS_NAME,"clikbtn")
         search_btn.click()
         print("search btn clicked")
         time.sleep(2)
-
+        dl_btn = driver.find_element(By.ID, "btn-download")
+        dl_btn.click()
+        print("download btn clicked")
+        time.sleep(2)
         while (True):
             pass
         driver.quit()
