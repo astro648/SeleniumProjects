@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70604fad-a2dd-489e-ac93-1dd56ccd465d" name="Changes" comment="moar stuff">
+      <change afterPath="$PROJECT_DIR$/working-with-web-elements/Book1.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working-with-web-elements/read-from-excel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +65,7 @@
       <recent name="C:\Users\astro\OneDrive\Documents\GitHub\SeleniumProjects\SeleniumWDTutorial\basicweb" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.information-download-test">
+  <component name="RunManager" selected="Python.read-from-excel">
     <configuration name="Practice1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SeleniumWDTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="usingid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="read-from-excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SeleniumWDTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,11 +179,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/css-selectors-adv-locators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/working-with-web-elements" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/css-selectors-adv-locators/usingid.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/working-with-web-elements/read-from-excel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.read-from-excel" />
         <item itemvalue="Python.information-download-test" />
         <item itemvalue="Python.Practice1" />
         <item itemvalue="Python.click-on-webpage" />
         <item itemvalue="Python.browserinteraction" />
-        <item itemvalue="Python.usingid" />
       </list>
     </recent_temporary>
   </component>
@@ -208,13 +210,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642307028233</updated>
-    </task>
-    <task id="LOCAL-00016" summary="imports">
-      <created>1643420548643</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1643420548643</updated>
     </task>
     <task id="LOCAL-00017" summary="base">
       <created>1643420851794</created>
@@ -552,7 +547,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645315905498</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="moar stuff">
+      <created>1645837350352</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1645837350352</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
