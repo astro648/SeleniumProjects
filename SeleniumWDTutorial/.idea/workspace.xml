@@ -63,7 +63,7 @@
       <recent name="C:\Users\astro\OneDrive\Documents\GitHub\SeleniumProjects\SeleniumWDTutorial\basicweb" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.read-from-excel">
+  <component name="RunManager" selected="Python.information-download-test">
     <configuration name="Practice1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SeleniumWDTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,8 +192,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.read-from-excel" />
         <item itemvalue="Python.information-download-test" />
+        <item itemvalue="Python.read-from-excel" />
         <item itemvalue="Python.Practice1" />
         <item itemvalue="Python.click-on-webpage" />
         <item itemvalue="Python.browserinteraction" />
